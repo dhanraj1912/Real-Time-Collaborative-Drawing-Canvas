@@ -7,4 +7,4 @@ services:
     startCommand: npm start
     envVars:
       - key: PORT
-        fromPort: 3000
+        value: 3000
